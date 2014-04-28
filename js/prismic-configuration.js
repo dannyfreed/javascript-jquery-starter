@@ -1,14 +1,14 @@
 var Configuration = {
 
   // -- API endpoint
-  apiEndpoint: 'https://lesbonneschoses.prismic.io/api',
+  apiEndpoint: 'https://testgadole.prismic.io/api',
 
   // -- Access token if the Master is not open
   // accessToken: 'xxxxxx',
 
   // -- OAuth
-  // clientId: 'xxxxxx',
-  // clientSecret: 'xxxxxx',
+  clientId: 'U17Q6wEAACsAGdjq',
+  clientSecret: '03cf64534a59f7a5e193b059976e6e00',
 
   // -- Links resolution rules
   linkResolver: function(ctx, doc) {
