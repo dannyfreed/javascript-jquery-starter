@@ -4,11 +4,11 @@ var Configuration = {
   apiEndpoint: 'https://testgadole.prismic.io/api',
 
   // -- Access token if the Master is not open
-  // accessToken: 'xxxxxx',
+  accessToken: 'MTM5ODcyOTY0Nzk5My5VMTdkbndFQUFDOEFHZkpr.OO-_ve-_ve-_vUHvv73vv701VO-_vQFv77-977-977-977-977-977-977-977-9AmcQKlcAGO-_vVYd77-9Ww',
 
   // -- OAuth
-  clientId: 'U17Q6wEAACsAGdjq',
-  clientSecret: '03cf64534a59f7a5e193b059976e6e00',
+  clientId: 'U172TQEAACsAGiPA',
+  clientSecret: 'f6e9018781df7f7bc8f9ec32341e2bb2',
 
   // -- Links resolution rules
   linkResolver: function(ctx, doc) {
